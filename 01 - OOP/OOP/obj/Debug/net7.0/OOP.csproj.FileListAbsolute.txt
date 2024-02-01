@@ -1,0 +1,14 @@
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/01 - OOP/OOP/bin/Debug/net7.0/OOP
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/01 - OOP/OOP/bin/Debug/net7.0/OOP.deps.json
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/01 - OOP/OOP/bin/Debug/net7.0/OOP.runtimeconfig.json
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/01 - OOP/OOP/bin/Debug/net7.0/OOP.dll
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/01 - OOP/OOP/bin/Debug/net7.0/OOP.pdb
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/01 - OOP/OOP/obj/Debug/net7.0/OOP.GeneratedMSBuildEditorConfig.editorconfig
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/01 - OOP/OOP/obj/Debug/net7.0/OOP.AssemblyInfoInputs.cache
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/01 - OOP/OOP/obj/Debug/net7.0/OOP.AssemblyInfo.cs
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/01 - OOP/OOP/obj/Debug/net7.0/OOP.csproj.CoreCompileInputs.cache
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/01 - OOP/OOP/obj/Debug/net7.0/OOP.dll
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/01 - OOP/OOP/obj/Debug/net7.0/refint/OOP.dll
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/01 - OOP/OOP/obj/Debug/net7.0/OOP.pdb
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/01 - OOP/OOP/obj/Debug/net7.0/OOP.genruntimeconfig.cache
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/01 - OOP/OOP/obj/Debug/net7.0/ref/OOP.dll

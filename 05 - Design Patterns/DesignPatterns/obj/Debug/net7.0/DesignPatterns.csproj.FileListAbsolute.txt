@@ -1,0 +1,14 @@
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/05 - Design Patterns/DesignPatterns/bin/Debug/net7.0/DesignPatterns
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/05 - Design Patterns/DesignPatterns/bin/Debug/net7.0/DesignPatterns.deps.json
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/05 - Design Patterns/DesignPatterns/bin/Debug/net7.0/DesignPatterns.runtimeconfig.json
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/05 - Design Patterns/DesignPatterns/bin/Debug/net7.0/DesignPatterns.dll
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/05 - Design Patterns/DesignPatterns/bin/Debug/net7.0/DesignPatterns.pdb
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/05 - Design Patterns/DesignPatterns/obj/Debug/net7.0/DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/05 - Design Patterns/DesignPatterns/obj/Debug/net7.0/DesignPatterns.AssemblyInfoInputs.cache
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/05 - Design Patterns/DesignPatterns/obj/Debug/net7.0/DesignPatterns.AssemblyInfo.cs
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/05 - Design Patterns/DesignPatterns/obj/Debug/net7.0/DesignPatterns.csproj.CoreCompileInputs.cache
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/05 - Design Patterns/DesignPatterns/obj/Debug/net7.0/DesignPatterns.dll
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/05 - Design Patterns/DesignPatterns/obj/Debug/net7.0/refint/DesignPatterns.dll
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/05 - Design Patterns/DesignPatterns/obj/Debug/net7.0/DesignPatterns.pdb
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/05 - Design Patterns/DesignPatterns/obj/Debug/net7.0/DesignPatterns.genruntimeconfig.cache
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/05 - Design Patterns/DesignPatterns/obj/Debug/net7.0/ref/DesignPatterns.dll

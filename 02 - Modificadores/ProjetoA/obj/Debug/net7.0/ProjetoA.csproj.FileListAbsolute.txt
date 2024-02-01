@@ -1,0 +1,14 @@
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/02 - Modificadores/ProjetoA/bin/Debug/net7.0/ProjetoA
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/02 - Modificadores/ProjetoA/bin/Debug/net7.0/ProjetoA.deps.json
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/02 - Modificadores/ProjetoA/bin/Debug/net7.0/ProjetoA.runtimeconfig.json
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/02 - Modificadores/ProjetoA/bin/Debug/net7.0/ProjetoA.dll
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/02 - Modificadores/ProjetoA/bin/Debug/net7.0/ProjetoA.pdb
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/02 - Modificadores/ProjetoA/obj/Debug/net7.0/ProjetoA.GeneratedMSBuildEditorConfig.editorconfig
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/02 - Modificadores/ProjetoA/obj/Debug/net7.0/ProjetoA.AssemblyInfoInputs.cache
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/02 - Modificadores/ProjetoA/obj/Debug/net7.0/ProjetoA.AssemblyInfo.cs
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/02 - Modificadores/ProjetoA/obj/Debug/net7.0/ProjetoA.csproj.CoreCompileInputs.cache
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/02 - Modificadores/ProjetoA/obj/Debug/net7.0/ProjetoA.dll
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/02 - Modificadores/ProjetoA/obj/Debug/net7.0/refint/ProjetoA.dll
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/02 - Modificadores/ProjetoA/obj/Debug/net7.0/ProjetoA.pdb
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/02 - Modificadores/ProjetoA/obj/Debug/net7.0/ProjetoA.genruntimeconfig.cache
+/home/h1s0k4/Área de trabalho/App/DEV.IO/Formação de Arquitetura/1- FUNDAMENTOS DA ARQUITETURA/FundamentosArquitetura/02 - Modificadores/ProjetoA/obj/Debug/net7.0/ref/ProjetoA.dll
